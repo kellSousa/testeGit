@@ -1,0 +1,8 @@
+lista de pessonagens:
+
+1° - Personagem1
+2° - Personagem2
+3° - Personagem3
+4° - Personagem4
+5° - Personagem5
+6° - Personagem6
